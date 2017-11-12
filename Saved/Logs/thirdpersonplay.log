@@ -800,3 +800,374 @@ LogInit: Object subsystem initialized
 [2017.11.12-09.55.45:884][890]LogSavePackage: Save=24.85ms
 [2017.11.12-09.55.45:884][890]LogSavePackage: Moving '../../../../../../Documents/Unreal Projects/thirdpersonplay/Saved/CharacterBP68881F8E2D0B140C0037035B28604EEA.tmp' to '../../../../../../Documents/Unreal Projects/thirdpersonplay/Content/Character/CharacterBP.uasset'
 [2017.11.12-09.55.45:885][890]LogSavePackage: Display: Finished SavePackage ../../../../../../Documents/Unreal Projects/thirdpersonplay/Content/Character/CharacterBP.uasset
+[2017.11.12-09.59.06:754][861]LogLinux: Scale at X=199.500000, Y=204.250000: 1.500000 (monitor=#0, HDPI=141.767441 (horz scale: 1.476744), VDPI=141.402069 (vert scale: 1.472938))
+[2017.11.12-09.59.06:911][863]LogLinux: Setting swap interval to 'Immediate'
+[2017.11.12-09.59.16:731][312]LogLinux: Scale at X=0.000000, Y=25.000000: 1.500000 (monitor=#0, HDPI=141.767441 (horz scale: 1.476744), VDPI=141.402069 (vert scale: 1.472938))
+[2017.11.12-09.59.16:731][312]LogLinux: Scale at X=960.000000, Y=540.000000: 1.500000 (monitor=#0, HDPI=141.767441 (horz scale: 1.476744), VDPI=141.402069 (vert scale: 1.472938))
+[2017.11.12-09.59.16:732][312]LogLinux: Scale at X=960.000000, Y=540.000000: 1.500000 (monitor=#0, HDPI=141.767441 (horz scale: 1.476744), VDPI=141.402069 (vert scale: 1.472938))
+[2017.11.12-09.59.16:888][313]LogLinux: Setting swap interval to 'Immediate'
+[2017.11.12-09.59.18:679][366]LogLinux: Scale at X=0.000000, Y=25.000000: 1.500000 (monitor=#0, HDPI=141.767441 (horz scale: 1.476744), VDPI=141.402069 (vert scale: 1.472938))
+[2017.11.12-09.59.18:679][366]LogLinux: Scale at X=960.000000, Y=540.000000: 1.500000 (monitor=#0, HDPI=141.767441 (horz scale: 1.476744), VDPI=141.402069 (vert scale: 1.472938))
+[2017.11.12-09.59.18:679][366]LogLinux: Scale at X=960.000000, Y=540.000000: 1.500000 (monitor=#0, HDPI=141.767441 (horz scale: 1.476744), VDPI=141.402069 (vert scale: 1.472938))
+[2017.11.12-09.59.18:828][367]LogLinux: Setting swap interval to 'Immediate'
+[2017.11.12-09.59.43:205][919]LogLinux: Scale at X=0.000000, Y=25.000000: 1.500000 (monitor=#0, HDPI=141.767441 (horz scale: 1.476744), VDPI=141.402069 (vert scale: 1.472938))
+[2017.11.12-09.59.43:205][919]LogLinux: Scale at X=960.000000, Y=540.000000: 1.500000 (monitor=#0, HDPI=141.767441 (horz scale: 1.476744), VDPI=141.402069 (vert scale: 1.472938))
+[2017.11.12-09.59.43:224][919]LogLinux: Scale at X=960.000000, Y=540.000000: 1.500000 (monitor=#0, HDPI=141.767441 (horz scale: 1.476744), VDPI=141.402069 (vert scale: 1.472938))
+[2017.11.12-09.59.43:283][919]LogLinux: Setting swap interval to 'Immediate'
+[2017.11.12-09.59.43:323][919]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Character/CharacterBP" FILE="../../../../../../Documents/Unreal Projects/thirdpersonplay/Content/Character/CharacterBP.uasset" SILENT=true
+[2017.11.12-09.59.43:348][919]LogSavePackage: Save=24.47ms
+[2017.11.12-09.59.43:348][919]LogSavePackage: Moving '../../../../../../Documents/Unreal Projects/thirdpersonplay/Saved/CharacterBP993E4AE72B0B140C003B01443687B2D5.tmp' to '../../../../../../Documents/Unreal Projects/thirdpersonplay/Content/Character/CharacterBP.uasset'
+[2017.11.12-09.59.43:380][919]LogSavePackage: Display: Finished SavePackage ../../../../../../Documents/Unreal Projects/thirdpersonplay/Content/Character/CharacterBP.uasset
+[2017.11.12-10.00.59:218][431]LogLinux: Scale at X=0.000000, Y=25.000000: 1.500000 (monitor=#0, HDPI=141.767441 (horz scale: 1.476744), VDPI=141.402069 (vert scale: 1.472938))
+[2017.11.12-10.00.59:218][431]LogLinux: Scale at X=960.000000, Y=540.000000: 1.500000 (monitor=#0, HDPI=141.767441 (horz scale: 1.476744), VDPI=141.402069 (vert scale: 1.472938))
+[2017.11.12-10.00.59:240][431]LogLinux: Scale at X=960.000000, Y=540.000000: 1.500000 (monitor=#0, HDPI=141.767441 (horz scale: 1.476744), VDPI=141.402069 (vert scale: 1.472938))
+[2017.11.12-10.00.59:302][431]LogLinux: Setting swap interval to 'Immediate'
+[2017.11.12-10.00.59:356][431]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Character/CharacterBP" FILE="../../../../../../Documents/Unreal Projects/thirdpersonplay/Content/Character/CharacterBP.uasset" SILENT=true
+[2017.11.12-10.00.59:386][431]LogSavePackage: Save=27.29ms
+[2017.11.12-10.00.59:386][431]LogSavePackage: Moving '../../../../../../Documents/Unreal Projects/thirdpersonplay/Saved/CharacterBP99406BA63B0B150C000001663B0FE1C7.tmp' to '../../../../../../Documents/Unreal Projects/thirdpersonplay/Content/Character/CharacterBP.uasset'
+[2017.11.12-10.00.59:386][431]LogSavePackage: Display: Finished SavePackage ../../../../../../Documents/Unreal Projects/thirdpersonplay/Content/Character/CharacterBP.uasset
+[2017.11.12-10.02.36:041][ 23]LogHttp: Warning: 0x7f22c7abc400: request failed, libcurl error: 6 (Couldn't resolve host name)
+[2017.11.12-10.02.36:041][ 23]LogHttp: Warning: 0x7f22c7abc400: libcurl info message cache 0 (Connection 1 seems to be dead!)
+[2017.11.12-10.02.36:041][ 23]LogHttp: Warning: 0x7f22c7abc400: libcurl info message cache 1 (Closing connection 1)
+[2017.11.12-10.02.36:042][ 23]LogHttp: Warning: 0x7f22c7abc400: libcurl info message cache 2 (TLSv1.2 (OUT), TLS alert, Client hello (1):)
+[2017.11.12-10.02.36:042][ 23]LogHttp: Warning: 0x7f22c7abc400: libcurl info message cache 3 (Could not resolve host: datarouter.ol.epicgames.com)
+[2017.11.12-10.02.36:042][ 23]LogHttp: Warning: 0x7f22c7abc400: libcurl info message cache 4 (Closing connection 2)
+[2017.11.12-10.03.07:530][431]LogLinux: Scale at X=0.000000, Y=25.000000: 1.500000 (monitor=#0, HDPI=141.767441 (horz scale: 1.476744), VDPI=141.402069 (vert scale: 1.472938))
+[2017.11.12-10.03.07:530][431]LogLinux: Scale at X=960.000000, Y=540.000000: 1.500000 (monitor=#0, HDPI=141.767441 (horz scale: 1.476744), VDPI=141.402069 (vert scale: 1.472938))
+[2017.11.12-10.03.07:550][431]LogLinux: Scale at X=960.000000, Y=540.000000: 1.500000 (monitor=#0, HDPI=141.767441 (horz scale: 1.476744), VDPI=141.402069 (vert scale: 1.472938))
+[2017.11.12-10.03.07:603][431]LogLinux: Setting swap interval to 'Immediate'
+[2017.11.12-10.03.07:661][431]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Character/CharacterBP" FILE="../../../../../../Documents/Unreal Projects/thirdpersonplay/Content/Character/CharacterBP.uasset" SILENT=true
+[2017.11.12-10.03.07:688][431]LogSavePackage: Save=25.17ms
+[2017.11.12-10.03.07:688][431]LogSavePackage: Moving '../../../../../../Documents/Unreal Projects/thirdpersonplay/Saved/CharacterBP99420169070B150C0003029742B5AB7B.tmp' to '../../../../../../Documents/Unreal Projects/thirdpersonplay/Content/Character/CharacterBP.uasset'
+[2017.11.12-10.03.07:689][431]LogSavePackage: Display: Finished SavePackage ../../../../../../Documents/Unreal Projects/thirdpersonplay/Content/Character/CharacterBP.uasset
+[2017.11.12-10.05.23:054][241]BlueprintLog: New page: Compile CharacterBP
+[2017.11.12-10.05.27:576][324]BlueprintLog: New page: Compile CharacterBP
+[2017.11.12-10.05.29:454][354]LogLinux: Scale at X=0.000000, Y=25.000000: 1.500000 (monitor=#0, HDPI=141.767441 (horz scale: 1.476744), VDPI=141.402069 (vert scale: 1.472938))
+[2017.11.12-10.05.29:454][354]LogLinux: Scale at X=960.000000, Y=540.000000: 1.500000 (monitor=#0, HDPI=141.767441 (horz scale: 1.476744), VDPI=141.402069 (vert scale: 1.472938))
+[2017.11.12-10.05.29:471][354]LogLinux: Scale at X=960.000000, Y=540.000000: 1.500000 (monitor=#0, HDPI=141.767441 (horz scale: 1.476744), VDPI=141.402069 (vert scale: 1.472938))
+[2017.11.12-10.05.29:534][354]LogLinux: Setting swap interval to 'Immediate'
+[2017.11.12-10.05.29:581][354]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Character/CharacterBP" FILE="../../../../../../Documents/Unreal Projects/thirdpersonplay/Content/Character/CharacterBP.uasset" SILENT=true
+[2017.11.12-10.05.29:631][354]LogSavePackage: Save=40.40ms
+[2017.11.12-10.05.29:631][354]LogSavePackage: Moving '../../../../../../Documents/Unreal Projects/thirdpersonplay/Saved/CharacterBP997830531D0B150C0005024F4B2B5425.tmp' to '../../../../../../Documents/Unreal Projects/thirdpersonplay/Content/Character/CharacterBP.uasset'
+[2017.11.12-10.05.29:632][354]LogSavePackage: Display: Finished SavePackage ../../../../../../Documents/Unreal Projects/thirdpersonplay/Content/Character/CharacterBP.uasset
+[2017.11.12-10.05.30:600][375]LogLinux: Scale at X=0.000000, Y=25.000000: 1.500000 (monitor=#0, HDPI=141.767441 (horz scale: 1.476744), VDPI=141.402069 (vert scale: 1.472938))
+[2017.11.12-10.05.30:600][375]LogLinux: Scale at X=960.000000, Y=540.000000: 1.500000 (monitor=#0, HDPI=141.767441 (horz scale: 1.476744), VDPI=141.402069 (vert scale: 1.472938))
+[2017.11.12-10.05.30:602][375]LogLinux: Scale at X=960.000000, Y=540.000000: 1.500000 (monitor=#0, HDPI=141.767441 (horz scale: 1.476744), VDPI=141.402069 (vert scale: 1.472938))
+[2017.11.12-10.05.30:687][375]LogLinux: Setting swap interval to 'Immediate'
+[2017.11.12-10.05.30:699][375]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Character/CharacterBP" FILE="../../../../../../Documents/Unreal Projects/thirdpersonplay/Content/Character/CharacterBP.uasset" SILENT=true
+[2017.11.12-10.05.30:716][375]LogSavePackage: Save=14.94ms
+[2017.11.12-10.05.30:716][375]LogSavePackage: Moving '../../../../../../Documents/Unreal Projects/thirdpersonplay/Saved/CharacterBP997AAC071E0B150C000502BD4B3C4547.tmp' to '../../../../../../Documents/Unreal Projects/thirdpersonplay/Content/Character/CharacterBP.uasset'
+[2017.11.12-10.05.30:716][375]LogSavePackage: Display: Finished SavePackage ../../../../../../Documents/Unreal Projects/thirdpersonplay/Content/Character/CharacterBP.uasset
+[2017.11.12-10.05.36:571][509]LogLinux: Scale at X=0.000000, Y=25.000000: 1.500000 (monitor=#0, HDPI=141.767441 (horz scale: 1.476744), VDPI=141.402069 (vert scale: 1.472938))
+[2017.11.12-10.05.49:763][620]LogLinux: Scale at X=0.000000, Y=25.000000: 1.500000 (monitor=#0, HDPI=141.767441 (horz scale: 1.476744), VDPI=141.402069 (vert scale: 1.472938))
+[2017.11.12-10.05.50:051][621]Cmd: QUIT_EDITOR
+[2017.11.12-10.05.50:120][621]LogExit: Preparing to exit.
+[2017.11.12-10.05.50:857][621]LogExit: Editor shut down
+[2017.11.12-10.05.50:857][621]LogExit: Transaction tracking system shut down
+[2017.11.12-10.05.51:219][621]LogExit: Object subsystem successfully closed.
+[2017.11.12-10.05.51:304][621]LogModuleManager: Shutting down and abandoning module BlueprintGraph (498)
+[2017.11.12-10.05.51:304][621]LogModuleManager: Shutting down and abandoning module HierarchicalLODOutliner (496)
+[2017.11.12-10.05.51:304][621]LogModuleManager: Shutting down and abandoning module DesktopPlatform (494)
+[2017.11.12-10.05.51:304][621]LogModuleManager: Shutting down and abandoning module SceneOutliner (492)
+[2017.11.12-10.05.51:305][621]LogModuleManager: Shutting down and abandoning module AddContentDialog (490)
+[2017.11.12-10.05.51:305][621]LogModuleManager: Shutting down and abandoning module WidgetCarousel (489)
+[2017.11.12-10.05.51:305][621]LogModuleManager: Shutting down and abandoning module EditorWidgets (486)
+[2017.11.12-10.05.51:305][621]LogModuleManager: Shutting down and abandoning module CollectionManager (484)
+[2017.11.12-10.05.51:305][621]LogModuleManager: Shutting down and abandoning module StatsViewer (482)
+[2017.11.12-10.05.51:305][621]LogModuleManager: Shutting down and abandoning module FoliageEdit (480)
+[2017.11.12-10.05.51:305][621]LogModuleManager: Shutting down and abandoning module LandscapeEditor (478)
+[2017.11.12-10.05.51:305][621]LogModuleManager: Shutting down and abandoning module MeshPaintMode (476)
+[2017.11.12-10.05.51:306][621]LogModuleManager: Shutting down and abandoning module SceneDepthPickerMode (474)
+[2017.11.12-10.05.51:306][621]LogModuleManager: Shutting down and abandoning module ActorPickerMode (472)
+[2017.11.12-10.05.51:306][621]LogModuleManager: Shutting down and abandoning module GeometryMode (470)
+[2017.11.12-10.05.51:306][621]LogModuleManager: Shutting down and abandoning module TextureAlignMode (468)
+[2017.11.12-10.05.51:306][621]LogModuleManager: Shutting down and abandoning module BspMode (466)
+[2017.11.12-10.05.51:306][621]LogModuleManager: Shutting down and abandoning module PIEPreviewDeviceProfileSelector (464)
+[2017.11.12-10.05.51:306][621]LogModuleManager: Shutting down and abandoning module HardwareSurvey (462)
+[2017.11.12-10.05.51:306][621]LogModuleManager: Shutting down and abandoning module SequenceRecorderSections (460)
+[2017.11.12-10.05.51:306][621]LogModuleManager: Shutting down and abandoning module SequenceRecorder (458)
+[2017.11.12-10.05.51:306][621]LogModuleManager: Shutting down and abandoning module AutomationWorker (456)
+[2017.11.12-10.05.51:306][621]LogModuleManager: Shutting down and abandoning module MatineeToLevelSequence (454)
+[2017.11.12-10.05.51:306][621]LogModuleManager: Shutting down and abandoning module LevelSequenceEditor (452)
+[2017.11.12-10.05.51:306][621]LogModuleManager: Shutting down and abandoning module PlacementMode (451)
+[2017.11.12-10.05.51:306][621]LogModuleManager: Shutting down and abandoning module AvfMediaFactory (448)
+[2017.11.12-10.05.51:306][621]LogModuleManager: Shutting down and abandoning module AvfMediaEditor (446)
+[2017.11.12-10.05.51:306][621]LogModuleManager: Shutting down and abandoning module WmfMediaFactory (444)
+[2017.11.12-10.05.51:306][621]LogModuleManager: Shutting down and abandoning module WmfMediaEditor (442)
+[2017.11.12-10.05.51:306][621]LogModuleManager: Shutting down and abandoning module ImgMediaFactory (440)
+[2017.11.12-10.05.51:306][621]LogModuleManager: Shutting down and abandoning module ImgMediaEditor (438)
+[2017.11.12-10.05.51:307][621]LogModuleManager: Shutting down and abandoning module AndroidMediaFactory (436)
+[2017.11.12-10.05.51:307][621]LogModuleManager: Shutting down and abandoning module AndroidMediaEditor (434)
+[2017.11.12-10.05.51:307][621]LogModuleManager: Shutting down and abandoning module CharacterAI (432)
+[2017.11.12-10.05.51:307][621]LogModuleManager: Shutting down and abandoning module SmartSnapping (430)
+[2017.11.12-10.05.51:307][621]LogModuleManager: Shutting down and abandoning module SessionServices (428)
+[2017.11.12-10.05.51:307][621]LogModuleManager: Shutting down and abandoning module ViewportSnapping (426)
+[2017.11.12-10.05.51:307][621]LogModuleManager: Shutting down and abandoning module ViewportInteraction (424)
+[2017.11.12-10.05.51:307][621]LogModuleManager: Shutting down and abandoning module ClothPainter (422)
+[2017.11.12-10.05.51:307][621]LogModuleManager: Shutting down and abandoning module SkeletalMeshEditor (421)
+[2017.11.12-10.05.51:307][621]LogModuleManager: Shutting down and abandoning module LogVisualizer (418)
+[2017.11.12-10.05.51:307][621]LogModuleManager: Shutting down and abandoning module IntroTutorials (416)
+[2017.11.12-10.05.51:307][621]LogModuleManager: Shutting down and abandoning module GameProjectGeneration (415)
+[2017.11.12-10.05.51:307][621]LogModuleManager: Shutting down and abandoning module HTML5PlatformEditor (412)
+[2017.11.12-10.05.51:307][621]LogModuleManager: Shutting down and abandoning module AndroidPlatformEditor (410)
+[2017.11.12-10.05.51:307][621]LogModuleManager: Shutting down and abandoning module AndroidDeviceDetection (409)
+[2017.11.12-10.05.51:765][621]LogModuleManager: Shutting down and abandoning module LinuxPlatformEditor (406)
+[2017.11.12-10.05.51:765][621]LogModuleManager: Shutting down and abandoning module AndroidRuntimeSettings (404)
+[2017.11.12-10.05.51:766][621]LogModuleManager: Shutting down and abandoning module InputBindingEditor (402)
+[2017.11.12-10.05.51:766][621]LogModuleManager: Shutting down and abandoning module MergeActors (400)
+[2017.11.12-10.05.51:766][621]LogModuleManager: Shutting down and abandoning module SizeMap (398)
+[2017.11.12-10.05.51:766][621]LogModuleManager: Shutting down and abandoning module TreeMap (396)
+[2017.11.12-10.05.51:766][621]LogModuleManager: Shutting down and abandoning module ReferenceViewer (394)
+[2017.11.12-10.05.51:766][621]LogModuleManager: Shutting down and abandoning module LocalizationDashboard (392)
+[2017.11.12-10.05.51:766][621]LogModuleManager: Shutting down and abandoning module LocalizationService (391)
+[2017.11.12-10.05.51:766][621]LogModuleManager: Shutting down and abandoning module HardwareTargeting (388)
+[2017.11.12-10.05.51:766][621]LogModuleManager: Shutting down and abandoning module DeviceProfileEditor (386)
+[2017.11.12-10.05.51:767][621]LogModuleManager: Shutting down and abandoning module UndoHistory (384)
+[2017.11.12-10.05.51:767][621]LogModuleManager: Shutting down and abandoning module XmlParser (382)
+[2017.11.12-10.05.51:767][621]LogModuleManager: Shutting down and abandoning module Blutility (380)
+[2017.11.12-10.05.51:767][621]LogModuleManager: Shutting down and abandoning module ProjectSettingsViewer (378)
+[2017.11.12-10.05.51:767][621]LogModuleManager: Shutting down and abandoning module ProjectTargetPlatformEditor (377)
+[2017.11.12-10.05.51:767][621]LogModuleManager: Shutting down and abandoning module EditorSettingsViewer (374)
+[2017.11.12-10.05.51:768][621]LogModuleManager: Shutting down and abandoning module SettingsEditor (372)
+[2017.11.12-10.05.51:768][621]LogModuleManager: Shutting down and abandoning module ProjectLauncher (370)
+[2017.11.12-10.05.51:768][621]LogModuleManager: Shutting down and abandoning module SessionFrontend (368)
+[2017.11.12-10.05.51:768][621]LogModuleManager: Shutting down and abandoning module ProfilerClient (366)
+[2017.11.12-10.05.51:768][621]LogModuleManager: Shutting down and abandoning module DeviceManager (364)
+[2017.11.12-10.05.51:768][621]LogModuleManager: Shutting down and abandoning module TargetDeviceServices (363)
+[2017.11.12-10.05.51:799][621]LogModuleManager: Shutting down and abandoning module AutomationController (360)
+[2017.11.12-10.05.51:800][621]LogModuleManager: Shutting down and abandoning module AutomationWindow (358)
+[2017.11.12-10.05.51:800][621]LogModuleManager: Shutting down and abandoning module Layers (356)
+[2017.11.12-10.05.51:800][621]LogModuleManager: Shutting down and abandoning module ComponentVisualizers (354)
+[2017.11.12-10.05.51:800][621]LogModuleManager: Shutting down and abandoning module DetailCustomizations (352)
+[2017.11.12-10.05.51:800][621]LogModuleManager: Shutting down and abandoning module PackagesDialog (350)
+[2017.11.12-10.05.51:801][621]LogModuleManager: Shutting down and abandoning module Persona (348)
+[2017.11.12-10.05.51:801][621]LogModuleManager: Shutting down and abandoning module AdvancedPreviewScene (347)
+[2017.11.12-10.05.51:801][621]LogModuleManager: Shutting down and abandoning module AnimGraph (345)
+[2017.11.12-10.05.51:801][621]LogModuleManager: Shutting down and abandoning module Kismet (342)
+[2017.11.12-10.05.51:822][621]LogModuleManager: Shutting down and abandoning module ClassViewer (340)
+[2017.11.12-10.05.51:823][621]LogModuleManager: Shutting down and abandoning module Toolbox (338)
+[2017.11.12-10.05.51:823][621]LogModuleManager: Shutting down and abandoning module ModuleUI (336)
+[2017.11.12-10.05.51:823][621]LogModuleManager: Shutting down and abandoning module MovieSceneTools (334)
+[2017.11.12-10.05.51:823][621]LogModuleManager: Shutting down and abandoning module OutputLog (332)
+[2017.11.12-10.05.51:823][621]LogModuleManager: Shutting down and abandoning module GammaUI (330)
+[2017.11.12-10.05.51:823][621]LogModuleManager: Shutting down and abandoning module Documentation (328)
+[2017.11.12-10.05.51:823][621]LogModuleManager: Shutting down and abandoning module MovieSceneTracks (326)
+[2017.11.12-10.05.51:823][621]LogModuleManager: Shutting down and abandoning module MovieScene (324)
+[2017.11.12-10.05.51:824][621]LogModuleManager: Shutting down and abandoning module GeometryCache (322)
+[2017.11.12-10.05.51:824][621]LogModuleManager: Shutting down and abandoning module GeometryCacheEd (321)
+[2017.11.12-10.05.51:824][621]LogModuleManager: Shutting down and abandoning module StreamingPauseRendering (318)
+[2017.11.12-10.05.51:824][621]LogModuleManager: Shutting down and abandoning module LauncherPlatform (316)
+[2017.11.12-10.05.51:824][621]LogModuleManager: Shutting down and abandoning module AnalyticsET (314)
+[2017.11.12-10.05.51:824][621]LogModuleManager: Shutting down and abandoning module PortalServices (312)
+[2017.11.12-10.05.51:824][621]LogModuleManager: Shutting down and abandoning module PortalRpc (310)
+[2017.11.12-10.05.51:824][621]LogModuleManager: Shutting down and abandoning module MessagingRpc (308)
+[2017.11.12-10.05.51:824][621]LogModuleManager: Shutting down and abandoning module AIModule (306)
+[2017.11.12-10.05.51:824][621]LogModuleManager: Shutting down and abandoning module GameplayDebugger (305)
+[2017.11.12-10.05.51:824][621]LogModuleManager: Shutting down and abandoning module AITestSuite (303)
+[2017.11.12-10.05.51:824][621]LogModuleManager: Shutting down and abandoning module ProfilerService (300)
+[2017.11.12-10.05.52:030][621]LogModuleManager: Shutting down and abandoning module TaskGraph (298)
+[2017.11.12-10.05.52:030][621]LogModuleManager: Shutting down and abandoning module ActorSequence (296)
+[2017.11.12-10.05.52:030][621]LogModuleManager: Shutting down and abandoning module MediaPlayerEditor (292)
+[2017.11.12-10.05.52:031][621]LogModuleManager: Shutting down and abandoning module MediaCompositingEditor (290)
+[2017.11.12-10.05.52:031][621]LogModuleManager: Shutting down and abandoning module MediaCompositing (288)
+[2017.11.12-10.05.52:031][621]LogModuleManager: Shutting down and abandoning module PluginBrowser (286)
+[2017.11.12-10.05.52:031][621]LogModuleManager: Shutting down and abandoning module SpeedTreeImporter (284)
+[2017.11.12-10.05.52:031][621]LogModuleManager: Shutting down and abandoning module MobileLauncherProfileWizard (282)
+[2017.11.12-10.05.52:031][621]LogModuleManager: Shutting down and abandoning module LightPropagationVolumeEditor (280)
+[2017.11.12-10.05.52:031][621]LogModuleManager: Shutting down and abandoning module ArchVisCharacter (278)
+[2017.11.12-10.05.52:031][621]LogModuleManager: Shutting down and abandoning module MobilePatchingUtils (276)
+[2017.11.12-10.05.52:031][621]LogModuleManager: Shutting down and abandoning module CustomMeshComponent (274)
+[2017.11.12-10.05.52:031][621]LogModuleManager: Shutting down and abandoning module ProceduralMeshComponentEditor (272)
+[2017.11.12-10.05.52:032][621]LogModuleManager: Shutting down and abandoning module ProceduralMeshComponent (270)
+[2017.11.12-10.05.52:032][621]LogModuleManager: Shutting down and abandoning module AndroidPermission (268)
+[2017.11.12-10.05.52:032][621]LogModuleManager: Shutting down and abandoning module CableComponent (266)
+[2017.11.12-10.05.52:032][621]LogModuleManager: Shutting down and abandoning module SteamVRController (264)
+[2017.11.12-10.05.52:032][621]LogModuleManager: Shutting down and abandoning module PerforceSourceControl (262)
+[2017.11.12-10.05.52:032][621]LogModuleManager: Shutting down and abandoning module VisualStudioCodeSourceCodeAccess (260)
+[2017.11.12-10.05.52:032][621]LogModuleManager: Shutting down and abandoning module UObjectPlugin (258)
+[2017.11.12-10.05.52:032][621]LogModuleManager: Shutting down and abandoning module CodeLiteSourceCodeAccess (256)
+[2017.11.12-10.05.52:032][621]LogModuleManager: Shutting down and abandoning module KDevelopSourceCodeAccess (254)
+[2017.11.12-10.05.52:032][621]LogModuleManager: Shutting down and abandoning module GitSourceControl (252)
+[2017.11.12-10.05.52:033][621]LogModuleManager: Shutting down and abandoning module SubversionSourceControl (250)
+[2017.11.12-10.05.52:033][621]LogModuleManager: Shutting down and abandoning module SourceControl (249)
+[2017.11.12-10.05.52:033][621]LogModuleManager: Shutting down and abandoning module PaperTiledImporter (246)
+[2017.11.12-10.05.52:033][621]LogModuleManager: Shutting down and abandoning module PaperSpriteSheetImporter (244)
+[2017.11.12-10.05.52:034][621]LogModuleManager: Shutting down and abandoning module Paper2DEditor (242)
+[2017.11.12-10.05.52:034][621]LogModuleManager: Shutting down and abandoning module MeshPaint (241)
+[2017.11.12-10.05.52:034][621]LogModuleManager: Shutting down and abandoning module LevelEditor (239)
+[2017.11.12-10.05.52:039][621]LogModuleManager: Shutting down and abandoning module PixelInspectorModule (238)
+[2017.11.12-10.05.52:039][621]LogModuleManager: Shutting down and abandoning module MainFrame (236)
+[2017.11.12-10.05.52:039][621]LogModuleManager: Shutting down and abandoning module HotReload (235)
+[2017.11.12-10.05.52:041][621]LogModuleManager: Shutting down and abandoning module TcpMessaging (230)
+[2017.11.12-10.05.52:141][621]LogModuleManager: Shutting down and abandoning module UdpMessaging (228)
+[2017.11.12-10.05.52:242][621]LogModuleManager: Shutting down and abandoning module AssetManagerEditor (226)
+[2017.11.12-10.05.52:242][621]LogModuleManager: Shutting down and abandoning module GraphEditor (225)
+[2017.11.12-10.05.52:243][621]LogModuleManager: Shutting down and abandoning module ContentBrowser (223)
+[2017.11.12-10.05.52:247][621]LogModuleManager: Shutting down and abandoning module FacialAnimationEditor (220)
+[2017.11.12-10.05.52:247][621]LogModuleManager: Shutting down and abandoning module FacialAnimation (218)
+[2017.11.12-10.05.52:247][621]LogModuleManager: Shutting down and abandoning module GameplayTagsEditor (216)
+[2017.11.12-10.05.52:247][621]LogModuleManager: Shutting down and abandoning module LightPropagationVolumeRuntime (214)
+[2017.11.12-10.05.52:247][621]LogModuleManager: Shutting down and abandoning module ImmediatePhysicsEditor (212)
+[2017.11.12-10.05.52:247][621]LogModuleManager: Shutting down and abandoning module ImmediatePhysics (210)
+[2017.11.12-10.05.52:247][621]LogModuleManager: Shutting down and abandoning module RuntimePhysXCooking (208)
+[2017.11.12-10.05.52:247][621]LogModuleManager: Shutting down and abandoning module LocationServicesBPLibrary (206)
+[2017.11.12-10.05.52:248][621]LogModuleManager: Shutting down and abandoning module PhysXVehiclesEditor (204)
+[2017.11.12-10.05.52:248][621]LogModuleManager: Shutting down and abandoning module PhysXVehicles (202)
+[2017.11.12-10.05.52:248][621]LogModuleManager: Shutting down and abandoning module NullSourceCodeAccess (200)
+[2017.11.12-10.05.52:248][621]LogModuleManager: Shutting down and abandoning module Paper2D (198)
+[2017.11.12-10.05.52:248][621]LogModuleManager: Shutting down and abandoning module ImgMedia (196)
+[2017.11.12-10.05.52:248][621]LogModuleManager: Shutting down and abandoning module PacketHandler (194)
+[2017.11.12-10.05.52:248][621]LogModuleManager: Shutting down and abandoning module ClothingSystemEditor (192)
+[2017.11.12-10.05.52:248][621]LogModuleManager: Shutting down and abandoning module ClothingSystemRuntime (190)
+[2017.11.12-10.05.52:248][621]LogModuleManager: Shutting down and abandoning module MediaAssets (188)
+[2017.11.12-10.05.52:248][621]LogModuleManager: Shutting down and abandoning module Media (187)
+[2017.11.12-10.05.52:254][621]LogModuleManager: Shutting down and abandoning module Overlay (184)
+[2017.11.12-10.05.52:254][621]LogModuleManager: Shutting down and abandoning module OverlayEditor (183)
+[2017.11.12-10.05.52:254][621]LogModuleManager: Shutting down and abandoning module VREditor (180)
+[2017.11.12-10.05.52:254][621]LogModuleManager: Shutting down and abandoning module StringTableEditor (178)
+[2017.11.12-10.05.52:254][621]LogModuleManager: Shutting down and abandoning module GameplayTasksEditor (176)
+[2017.11.12-10.05.52:254][621]LogModuleManager: Shutting down and abandoning module BehaviorTreeEditor (174)
+[2017.11.12-10.05.52:255][621]LogModuleManager: Shutting down and abandoning module FunctionalTesting (172)
+[2017.11.12-10.05.52:255][621]LogModuleManager: Shutting down and abandoning module CollisionAnalyzer (170)
+[2017.11.12-10.05.52:255][621]LogModuleManager: Shutting down and abandoning module WorkspaceMenuStructure (169)
+[2017.11.12-10.05.52:255][621]LogModuleManager: Shutting down and abandoning module UMG (166)
+[2017.11.12-10.05.52:255][621]LogModuleManager: Shutting down and abandoning module UMGEditor (165)
+[2017.11.12-10.05.52:255][621]LogModuleManager: Shutting down and abandoning module Sequencer (164)
+[2017.11.12-10.05.52:256][621]LogModuleManager: Shutting down and abandoning module MessageLog (161)
+[2017.11.12-10.05.52:256][621]LogModuleManager: Shutting down and abandoning module SlateReflector (156)
+[2017.11.12-10.05.52:256][621]LogModuleManager: Shutting down and abandoning module Slate (154)
+[2017.11.12-10.05.52:256][621]LogModuleManager: Shutting down and abandoning module EditorStyle (152)
+[2017.11.12-10.05.52:263][621]LogModuleManager: Shutting down and abandoning module MRMesh (150)
+[2017.11.12-10.05.52:263][621]LogModuleManager: Shutting down and abandoning module Messaging (148)
+[2017.11.12-10.05.52:263][621]LogModuleManager: Shutting down and abandoning module SourceCodeAccess (146)
+[2017.11.12-10.05.52:263][621]LogModuleManager: Shutting down and abandoning module HeadMountedDisplay (144)
+[2017.11.12-10.05.52:263][621]LogModuleManager: Shutting down and abandoning module AudioMixerSDL (142)
+[2017.11.12-10.05.52:263][621]LogModuleManager: Shutting down and abandoning module ALAudio (140)
+[2017.11.12-10.05.52:263][621]LogModuleManager: Shutting down and abandoning module Networking (138)
+[2017.11.12-10.05.52:263][621]LogModuleManager: Shutting down and abandoning module Core (134)
+[2017.11.12-10.05.52:264][621]LogModuleManager: Shutting down and abandoning module LevelSequence (130)
+[2017.11.12-10.05.52:264][621]LogModuleManager: Shutting down and abandoning module DirectoryWatcher (128)
+[2017.11.12-10.05.52:265][621]LogModuleManager: Shutting down and abandoning module KismetCompiler (126)
+[2017.11.12-10.05.52:265][621]LogModuleManager: Shutting down and abandoning module MeshUtilities (124)
+[2017.11.12-10.05.52:265][621]LogModuleManager: Shutting down and abandoning module MeshMergeUtilities (123)
+[2017.11.12-10.05.52:265][621]LogModuleManager: Shutting down and abandoning module MeshReductionInterface (122)
+[2017.11.12-10.05.52:265][621]LogModuleManager: Shutting down and abandoning module QuadricMeshReduction (121)
+[2017.11.12-10.05.52:265][621]LogModuleManager: Shutting down and abandoning module MaterialBaking (117)
+[2017.11.12-10.05.52:266][621]LogModuleManager: Shutting down and abandoning module DerivedDataCache (114)
+[2017.11.12-10.05.52:277][621]LogDerivedDataCache: Shutdown
+[2017.11.12-10.05.52:277][621]LogModuleManager: Shutting down and abandoning module TargetPlatform (112)
+[2017.11.12-10.05.52:277][621]LogModuleManager: Shutting down and abandoning module VulkanShaderFormat (111)
+[2017.11.12-10.05.52:278][621]LogModuleManager: Shutting down and abandoning module ShaderFormatVectorVM (109)
+[2017.11.12-10.05.52:278][621]LogModuleManager: Shutting down and abandoning module ShaderFormatOpenGL (107)
+[2017.11.12-10.05.52:278][621]LogModuleManager: Shutting down and abandoning module TextureFormatUncompressed (105)
+[2017.11.12-10.05.52:278][621]LogModuleManager: Shutting down and abandoning module TextureFormatPVR (103)
+[2017.11.12-10.05.52:278][621]LogModuleManager: Shutting down and abandoning module TextureFormatDXT (101)
+[2017.11.12-10.05.52:278][621]LogModuleManager: Shutting down and abandoning module TextureFormatIntelISPCTexComp (99)
+[2017.11.12-10.05.52:278][621]LogModuleManager: Shutting down and abandoning module TextureFormatASTC (97)
+[2017.11.12-10.05.52:278][621]LogModuleManager: Shutting down and abandoning module ImageWrapper (96)
+[2017.11.12-10.05.52:278][621]LogModuleManager: Shutting down and abandoning module AudioFormatOpus (93)
+[2017.11.12-10.05.52:279][621]LogModuleManager: Shutting down and abandoning module AudioFormatOgg (91)
+[2017.11.12-10.05.52:279][621]LogModuleManager: Shutting down and abandoning module AudioFormatADPCM (89)
+[2017.11.12-10.05.52:279][621]LogModuleManager: Shutting down and abandoning module HTML5TargetPlatform (87)
+[2017.11.12-10.05.52:279][621]LogModuleManager: Shutting down and abandoning module LinuxTargetPlatform (85)
+[2017.11.12-10.05.52:279][621]LogModuleManager: Shutting down and abandoning module LinuxServerTargetPlatform (83)
+[2017.11.12-10.05.52:279][621]LogModuleManager: Shutting down and abandoning module LinuxNoEditorTargetPlatform (81)
+[2017.11.12-10.05.52:279][621]LogModuleManager: Shutting down and abandoning module LinuxClientTargetPlatform (79)
+[2017.11.12-10.05.52:279][621]LogModuleManager: Shutting down and abandoning module AndroidTargetPlatform (77)
+[2017.11.12-10.05.52:279][621]LogModuleManager: Shutting down and abandoning module Android_PVRTCTargetPlatform (75)
+[2017.11.12-10.05.52:279][621]LogModuleManager: Shutting down and abandoning module Android_MultiTargetPlatform (73)
+[2017.11.12-10.05.52:279][621]LogModuleManager: Shutting down and abandoning module Android_ETC2TargetPlatform (71)
+[2017.11.12-10.05.52:279][621]LogModuleManager: Shutting down and abandoning module Android_ETC1TargetPlatform (69)
+[2017.11.12-10.05.52:279][621]LogModuleManager: Shutting down and abandoning module Android_DXTTargetPlatform (67)
+[2017.11.12-10.05.52:280][621]LogModuleManager: Shutting down and abandoning module Android_ATCTargetPlatform (65)
+[2017.11.12-10.05.52:280][621]LogModuleManager: Shutting down and abandoning module Android_ASTCTargetPlatform (63)
+[2017.11.12-10.05.52:280][621]LogModuleManager: Shutting down and abandoning module AllDesktopTargetPlatform (61)
+[2017.11.12-10.05.52:280][621]LogModuleManager: Shutting down and abandoning module InputCore (58)
+[2017.11.12-10.05.52:280][621]LogModuleManager: Shutting down and abandoning module Settings (56)
+[2017.11.12-10.05.52:280][621]LogModuleManager: Shutting down and abandoning module PhysXCooking (54)
+[2017.11.12-10.05.52:280][621]LogModuleManager: Shutting down and abandoning module OnlineBlueprintSupport (52)
+[2017.11.12-10.05.52:281][621]LogModuleManager: Shutting down and abandoning module OnlineSubsystem (48)
+[2017.11.12-10.05.52:281][621]LogModuleManager: Shutting down and abandoning module XMPP (47)
+[2017.11.12-10.05.52:281][621]LogModuleManager: Shutting down and abandoning module HTTP (45)
+[2017.11.12-10.05.52:281][621]LogHttp: Display: Http module shutting down, but needs to wait on 1 outstanding Http requests:
+[2017.11.12-10.05.52:281][621]LogHttp: Display: 	verb=[POST] url=[https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7B07F96CBE-0F0B-140C-0036-02EA230145B5%7D&AppID=UEEditor.UnrealEngine.Release&AppVersion=4.18.0-0%2B%2B%2BUE4%2BRelease-4.18&UserID=00026b1a220b1503003100eddc3b0ae3%7C%7C453ffe12fcff4a3990601ef9dd76a37f&AppEnvironment=datacollector-source&UploadType=eteventstream] status=Processing
+[2017.11.12-10.05.52:281][621]LogHttp: Display: Sleeping 0.5s to wait for 1 outstanding Http requests.
+[2017.11.12-10.05.52:782][621]LogHttp: Display: Sleeping 0.5s to wait for 1 outstanding Http requests.
+[2017.11.12-10.05.53:282][621]LogHttp: Display: Sleeping 0.5s to wait for 1 outstanding Http requests.
+[2017.11.12-10.05.53:783][621]LogHttp: Display: Sleeping 0.5s to wait for 1 outstanding Http requests.
+[2017.11.12-10.05.54:283][621]LogHttp: Display: Sleeping 0.5s to wait for 1 outstanding Http requests.
+[2017.11.12-10.05.54:783][621]LogHttp: Display: Sleeping 0.5s to wait for 1 outstanding Http requests.
+[2017.11.12-10.05.55:284][621]LogHttp: Display: Sleeping 0.5s to wait for 1 outstanding Http requests.
+[2017.11.12-10.05.55:784][621]LogHttp: Display: Sleeping 0.5s to wait for 1 outstanding Http requests.
+[2017.11.12-10.05.56:285][621]LogHttp: Display: Sleeping 0.5s to wait for 1 outstanding Http requests.
+[2017.11.12-10.05.56:785][621]LogHttp: Display: Sleeping 0.5s to wait for 1 outstanding Http requests.
+[2017.11.12-10.05.57:285][621]LogHttp: Display: Sleeping 0.5s to wait for 1 outstanding Http requests.
+[2017.11.12-10.05.57:786][621]LogHttp: Display: Sleeping 0.5s to wait for 1 outstanding Http requests.
+[2017.11.12-10.05.58:286][621]LogHttp: Display: Sleeping 0.5s to wait for 1 outstanding Http requests.
+[2017.11.12-10.05.58:786][621]LogHttp: Display: Sleeping 0.5s to wait for 1 outstanding Http requests.
+[2017.11.12-10.05.59:287][621]LogHttp: Display: Sleeping 0.5s to wait for 1 outstanding Http requests.
+[2017.11.12-10.05.59:787][621]LogHttp: Display: Sleeping 0.5s to wait for 1 outstanding Http requests.
+[2017.11.12-10.06.00:288][621]LogHttp: Display: Sleeping 0.5s to wait for 1 outstanding Http requests.
+[2017.11.12-10.06.00:789][621]LogHttp: Display: Sleeping 0.5s to wait for 1 outstanding Http requests.
+[2017.11.12-10.06.01:289][621]LogHttp: Display: Sleeping 0.5s to wait for 1 outstanding Http requests.
+[2017.11.12-10.06.01:789][621]LogHttp: Display: Sleeping 0.5s to wait for 1 outstanding Http requests.
+[2017.11.12-10.06.02:290][621]LogHttp: Display: Sleeping 0.5s to wait for 1 outstanding Http requests.
+[2017.11.12-10.06.02:790][621]LogHttp: Display: Sleeping 0.5s to wait for 1 outstanding Http requests.
+[2017.11.12-10.06.03:290][621]LogHttp: Display: Sleeping 0.5s to wait for 1 outstanding Http requests.
+[2017.11.12-10.06.03:791][621]LogHttp: Display: Sleeping 0.5s to wait for 1 outstanding Http requests.
+[2017.11.12-10.06.04:291][621]LogHttp: Display: Sleeping 0.5s to wait for 1 outstanding Http requests.
+[2017.11.12-10.06.04:792][621]LogHttp: Display: Sleeping 0.5s to wait for 1 outstanding Http requests.
+[2017.11.12-10.06.05:293][621]LogHttp: Display: Sleeping 0.5s to wait for 1 outstanding Http requests.
+[2017.11.12-10.06.05:793][621]LogHttp: Display: Sleeping 0.5s to wait for 1 outstanding Http requests.
+[2017.11.12-10.06.06:293][621]LogHttp: Display: Sleeping 0.5s to wait for 1 outstanding Http requests.
+[2017.11.12-10.06.06:794][621]LogHttp: Display: Sleeping 0.5s to wait for 1 outstanding Http requests.
+[2017.11.12-10.06.07:294][621]LogHttp: Display: Sleeping 0.5s to wait for 1 outstanding Http requests.
+[2017.11.12-10.06.07:794][621]LogHttp: Display: Sleeping 0.5s to wait for 1 outstanding Http requests.
+[2017.11.12-10.06.08:295][621]LogHttp: Display: Sleeping 0.5s to wait for 1 outstanding Http requests.
+[2017.11.12-10.06.08:795][621]LogHttp: Display: Sleeping 0.5s to wait for 1 outstanding Http requests.
+[2017.11.12-10.06.09:296][621]LogHttp: Display: Sleeping 0.5s to wait for 1 outstanding Http requests.
+[2017.11.12-10.06.09:796][621]LogHttp: Display: Sleeping 0.5s to wait for 1 outstanding Http requests.
+[2017.11.12-10.06.10:297][621]LogHttp: Display: Sleeping 0.5s to wait for 1 outstanding Http requests.
+[2017.11.12-10.06.10:797][621]LogHttp: Display: Sleeping 0.5s to wait for 1 outstanding Http requests.
+[2017.11.12-10.06.11:298][621]LogHttp: Display: Sleeping 0.5s to wait for 1 outstanding Http requests.
+[2017.11.12-10.06.11:799][621]LogHttp: Display: Sleeping 0.5s to wait for 1 outstanding Http requests.
+[2017.11.12-10.06.12:299][621]LogHttp: Display: Sleeping 0.5s to wait for 1 outstanding Http requests.
+[2017.11.12-10.06.12:800][621]LogHttp: Display: Sleeping 0.5s to wait for 1 outstanding Http requests.
+[2017.11.12-10.06.13:301][621]LogHttp: Display: Sleeping 0.5s to wait for 1 outstanding Http requests.
+[2017.11.12-10.06.13:801][621]LogHttp: Display: Sleeping 0.5s to wait for 1 outstanding Http requests.
+[2017.11.12-10.06.14:302][621]LogHttp: Warning: 0x7f22c35c9580: request failed, libcurl error: 6 (Couldn't resolve host name)
+[2017.11.12-10.06.14:302][621]LogHttp: Warning: 0x7f22c35c9580: libcurl info message cache 0 (Found bundle for host datarouter.ol.epicgames.com: 0x7f22d08aa520 [can pipeline])
+[2017.11.12-10.06.14:302][621]LogHttp: Warning: 0x7f22c35c9580: libcurl info message cache 1 (Re-using existing connection! (#3) with host datarouter.ol.epicgames.com)
+[2017.11.12-10.06.14:302][621]LogHttp: Warning: 0x7f22c35c9580: libcurl info message cache 2 (Connected to datarouter.ol.epicgames.com (34.225.81.108) port 443 (#3))
+[2017.11.12-10.06.14:302][621]LogHttp: Warning: 0x7f22c35c9580: libcurl info message cache 3 (upload completely sent off: 2278 out of 2278 bytes)
+[2017.11.12-10.06.14:302][621]LogHttp: Warning: 0x7f22c35c9580: libcurl info message cache 4 (TLSv1.2 (IN), TLS alert, Client hello (1):)
+[2017.11.12-10.06.14:303][621]LogHttp: Warning: 0x7f22c35c9580: libcurl info message cache 5 (Connection died, retrying a fresh connect)
+[2017.11.12-10.06.14:303][621]LogHttp: Warning: 0x7f22c35c9580: libcurl info message cache 6 (Closing connection 3)
+[2017.11.12-10.06.14:303][621]LogHttp: Warning: 0x7f22c35c9580: libcurl info message cache 7 (TLSv1.2 (OUT), TLS alert, Client hello (1):)
+[2017.11.12-10.06.14:303][621]LogHttp: Warning: 0x7f22c35c9580: libcurl info message cache 8 (Issue another request to this URL: 'https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7B07F96CBE-0F0B-140C-0036-02EA230145B5%7D&AppID=UEEditor.UnrealEngine.Release&AppVersion=4.18.0-0%2B%2B%2BUE4%2BRelease-4.18&UserID=00026b1a220b1503003100eddc3b0ae3%7C%7C453ffe12fcff4a3990601ef9dd76a37f&AppEnvironment=datacollector-source&UploadType=eteventstream')
+[2017.11.12-10.06.14:303][621]LogHttp: Warning: 0x7f22c35c9580: libcurl info message cache 9 (Could not resolve host: datarouter.ol.epicgames.com)
+[2017.11.12-10.06.14:303][621]LogHttp: Warning: 0x7f22c35c9580: libcurl info message cache 10 (Closing connection 4)
+[2017.11.12-10.06.14:316][621]LogModuleManager: Shutting down and abandoning module SSL (44)
+[2017.11.12-10.06.14:319][621]LogModuleManager: Shutting down and abandoning module ExampleDeviceProfileSelector (40)
+[2017.11.12-10.06.14:319][621]LogModuleManager: Shutting down and abandoning module LinuxDeviceProfileSelector (38)
+[2017.11.12-10.06.14:319][621]LogModuleManager: Shutting down and abandoning module SteamVR (36)
+[2017.11.12-10.06.14:319][621]LogModuleManager: Shutting down and abandoning module AnimationModifiers (34)
+[2017.11.12-10.06.14:320][621]LogModuleManager: Shutting down and abandoning module PropertyEditor (33)
+[2017.11.12-10.06.14:320][621]LogModuleManager: Shutting down and abandoning module AudioEditor (30)
+[2017.11.12-10.06.14:320][621]LogModuleManager: Shutting down and abandoning module TextureCompressor (28)
+[2017.11.12-10.06.14:320][621]LogModuleManager: Shutting down and abandoning module ShaderCore (26)
+[2017.11.12-10.06.14:320][621]LogModuleManager: Shutting down and abandoning module Landscape (24)
+[2017.11.12-10.06.14:320][621]LogModuleManager: Shutting down and abandoning module SlateRHIRenderer (22)
+[2017.11.12-10.06.14:322][621]LogModuleManager: Shutting down and abandoning module OpenGLDrv (20)
+[2017.11.12-10.06.14:322][621]LogModuleManager: Shutting down and abandoning module AnimGraphRuntime (18)
+[2017.11.12-10.06.14:322][621]LogModuleManager: Shutting down and abandoning module Renderer (16)
+[2017.11.12-10.06.14:322][621]LogModuleManager: Shutting down and abandoning module Engine (14)
+[2017.11.12-10.06.14:322][621]LogModuleManager: Shutting down and abandoning module CoreUObject (12)
+[2017.11.12-10.06.14:323][621]LogModuleManager: Shutting down and abandoning module NetworkFile (10)
+[2017.11.12-10.06.14:323][621]LogModuleManager: Shutting down and abandoning module CookedIterativeFile (8)
+[2017.11.12-10.06.14:323][621]LogModuleManager: Shutting down and abandoning module StreamingFile (6)
+[2017.11.12-10.06.14:323][621]LogModuleManager: Shutting down and abandoning module SandboxFile (4)
+[2017.11.12-10.06.14:323][621]LogModuleManager: Shutting down and abandoning module PakFile (2)
+[2017.11.12-10.06.14:325][621]LogExit: Exiting.
+[2017.11.12-10.06.14:325][621]LogInit: Tearing down SDL.
+[2017.11.12-10.06.14:348][621]Log file closed, 11/12/17 21:06:14
