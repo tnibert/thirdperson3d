@@ -1,0 +1,56 @@
+Generating report for minidump
+
+Application version 4.18.0.0
+ ... built from changelist 0
+
+OS version Linux 4.8.0-59-generic (network name: goana)
+Running 2 x86_64 processors (4 logical cores)
+Exception was "SIGSEGV: invalid attempt to read memory at address 0x000000000000025f"
+
+<SOURCE START>
+<SOURCE END>
+
+<CALLSTACK START>
+Unknown!FLinuxPlatformStackWalk::CaptureStackBackTrace(unsigned long long*, unsigned int, void*) + some bytes
+Unknown!FGenericPlatformStackWalk::StackWalkAndDump(char*, unsigned long, int, void*) + some bytes
+Unknown!FLinuxCrashContext::CaptureStackTrace() + some bytes
+Unknown!CommonLinuxCrashHandler(FGenericCrashContext const&) + some bytes
+Unknown!PlatformCrashHandler(int, siginfo_t*, void*) + some bytes
+Unknown!/lib/x86_64-linux-gnu/libpthread.so.0(+0x11630) [0x7fba35120630] + some bytes
+Unknown!FLinuxApplication::FindWindowBySDLWindow(SDL_Window*) + some bytes
+Unknown!FLinuxWindow::HitTest(SDL_Window*, SDL_Point const*, void*) + some bytes
+Unknown!/home/tim/code/unreal/UnrealEngine/Engine/Binaries/Linux/libUE4Editor-ApplicationCore.so(+0xbc5f6) [0x7fba2893a5f6] + some bytes
+Unknown!/home/tim/code/unreal/UnrealEngine/Engine/Binaries/Linux/libUE4Editor-ApplicationCore.so(+0xbd058) [0x7fba2893b058] + some bytes
+Unknown!/home/tim/code/unreal/UnrealEngine/Engine/Binaries/Linux/libUE4Editor-ApplicationCore.so(+0x6aaa3) [0x7fba288e8aa3] + some bytes
+Unknown!FLinuxPlatformApplicationMisc::PumpMessages(bool) + some bytes
+Unknown!FSlateApplication::TickPlatform(float) + some bytes
+Unknown!FSlateApplication::AddModalWindow(TSharedRef<SWindow, (ESPMode)0>, TSharedPtr<SWidget const, (ESPMode)0>, bool) + some bytes
+Unknown!UnFbx::GetImportOptions(UnFbx::FFbxImporter*, UFbxImportUI*, bool, bool, FString const&, bool&, bool&, bool, bool, EFBXImportType, UObject*) + some bytes
+Unknown!UFbxFactory::FactoryCreateBinary(UClass*, UObject*, FName, EObjectFlags, UObject*, wchar_t const*, unsigned char const*&, unsigned char const*, FFeedbackContext*, bool&) + some bytes
+Unknown!UFactory::FactoryCreateFile(UClass*, UObject*, FName, EObjectFlags, FString const&, wchar_t const*, FFeedbackContext*, bool&) + some bytes
+Unknown!UFactory::ImportObject(UClass*, UObject*, FName, EObjectFlags, FString const&, wchar_t const*, bool&) + some bytes
+Unknown!UAssetToolsImpl::ImportAssetsInternal(TArray<FString, FDefaultAllocator> const&, FString const&, TArray<TTuple<FString, FString>, FDefaultAllocator>*, FAssetImportParams const&) const + some bytes
+Unknown!UAssetToolsImpl::ImportAssets(TArray<FString, FDefaultAllocator> const&, FString const&, UFactory*, bool, TArray<TTuple<FString, FString>, FDefaultAllocator>*) const + some bytes
+Unknown!UAssetToolsImpl::ImportAssetsWithDialog(FString const&) + some bytes
+Unknown!non-virtual thunk to UAssetToolsImpl::ImportAssetsWithDialog(FString const&) + some bytes
+Unknown!SContentBrowser::ImportAsset(FString const&) + some bytes
+Unknown!SContentBrowser::HandleImportClicked() + some bytes
+Unknown!TBaseSPMethodDelegateInstance<false, SContentBrowser, (ESPMode)0, FReply ()>::Execute() const + some bytes
+Unknown!SButton::OnMouseButtonUp(FGeometry const&, FPointerEvent const&) + some bytes
+Unknown!FSlateApplication::RoutePointerUpEvent(FWidgetPath&, FPointerEvent&) + some bytes
+Unknown!FSlateApplication::ProcessMouseButtonUpEvent(FPointerEvent&) + some bytes
+Unknown!FSlateApplication::OnMouseUp(EMouseButtons::Type, FVector2D) + some bytes
+Unknown!FLinuxApplication::ProcessDeferredMessage(SDL_Event) + some bytes
+Unknown!FLinuxApplication::AddPendingEvent(SDL_Event) + some bytes
+Unknown!FLinuxPlatformApplicationMisc::PumpMessages(bool) + some bytes
+/home/tim/code/unreal/UnrealEngine/Engine/Binaries/Linux/UE4Editor!FEngineLoop::Tick() + some bytes [Runtime/Core/Public/UObject/NameTypes.h:641]
+/home/tim/code/unreal/UnrealEngine/Engine/Binaries/Linux/UE4Editor!GuardedMain(wchar_t const*) + some bytes [/home/tim/code/unreal/UnrealEngine/Engine/Source/Runtime/Launch/Private/Launch.cpp:62]
+Unknown!CommonLinuxMain(int, char**, int (*)(wchar_t const*)) + some bytes
+Unknown!/lib/x86_64-linux-gnu/libc.so.6(__libc_start_main+0xf1) [0x7fba22bc83f1] + some bytes
+Unknown!/home/tim/code/unreal/UnrealEngine/Engine/Binaries/Linux/UE4Editor(_start+0x2a) [0x4172ca] + some bytes
+
+<CALLSTACK END>
+
+0 loaded modules
+
+Report end!
